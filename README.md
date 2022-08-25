@@ -12,3 +12,6 @@ To run this automation script you should have Cucumber for Java and Gherkin plug
 In pom.xml , there are many dependencies which should help this framework to run successfully. Please do not change version of any dependency file.
 
 To run testcases by @tagname you can give @tag name to RunCuke class.
+
+If you want to look into report ganerated by TestNG kindly just go to target > cucumber-Reports.html  
+(You need to open in any of the web browser for batter result)
