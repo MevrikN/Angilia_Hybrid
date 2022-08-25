@@ -1,4 +1,4 @@
-# Task Angilia 
+# Task Angilia Hybrid Framework 
 
 In this project , you can run your Automation test script on Chrome , Firefox and Edge browser. To select your fevorite browser follow this steps,
 src > main > Java > org.example > DriverManager
