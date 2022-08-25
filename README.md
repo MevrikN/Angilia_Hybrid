@@ -11,4 +11,4 @@ To run this acript on chrome , you must have Google chrome Version 104 or above.
 To run this automation script you should have Cucumber for Java and Gherkin plugin to execute.
 In pom.xml , there are many dependencies which should help this framework to run successfully. Please do not change version of any dependency file.
 
-To run testcases by @tagname you can give @tag anme to RunCuke class.
+To run testcases by @tagname you can give @tag name to RunCuke class.
